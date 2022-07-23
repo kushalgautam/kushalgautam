@@ -31,10 +31,10 @@
 <a href="https://twitter.com/Kushalgautam18" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/kushal-gautam-870b471a4/" target="_blank">
+<a href="https://www.linkedin.com/in/gautamkusha/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/kushalgaut36a9" target="_blank">
+<a href="https://www.behance.net/kushalgautam" target="_blank">
 <img src=https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
 </a>  
